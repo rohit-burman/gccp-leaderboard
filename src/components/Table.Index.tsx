@@ -9,6 +9,7 @@ function TableIndex() {
   const data = JSON.parse(imported_data);
   const [Participationdata, setParticipationdata] = useState([...data]);
   const [EligibleforSwags, setEligibleforSwags] = useState(0);
+  const [Quote,setQuote] = useState("");
 
   const calculateTotalEligibility = () => {
     let total = 0;
@@ -31,6 +32,12 @@ function TableIndex() {
 
   useEffect(() => {
     calculateTotalEligibility();
+    async function getQuote() {
+      const res = await fetch("https://api.quotable.io/random?tags=Future&Inspirational&Motivational&Success")
+      const data = await res.json();
+      setQuote(data.content);
+    }
+    getQuote();
   }, []);
 
   return (
@@ -39,9 +46,7 @@ function TableIndex() {
         <div className="message bg-yellow-100 text-yellow-700 p-5 rounded-lg shadow-lg shadow-yellow-300/30 text-center border border-yellow-300/30">
           <p className="text-center">-: Todays Quote :-</p>
           <p>
-            To the optimist, the glass is half full. To the pessimist, the glass
-            is half empty. To the engineer, the glass is twice as big as it
-            needs to be.
+            {Quote}
           </p>
         </div>
         {/* <Speedometer completion={EligibleforSwags} /> */}
@@ -104,7 +109,7 @@ function TableIndex() {
       </div>
 
       <table className="mx-auto table-fixed m-5  ">
-        <thead className="shadow-md text-sm bg-blue-500 text-gray-200 sticky top-2 z-10">
+        <thead className="shadow-md text-sm bg-blue-500 text-gray-200 sticky top-2 z-10 ">
           <tr className="text-center ">
             <td className="rounded-ss-lg w-80 p-2 border-r-2 border-r-gray-300">
               Name
@@ -128,9 +133,6 @@ function TableIndex() {
             <td className="mob:hidden rounded-se-lg p-2 max-w-[150px]">
               GenAI Game Completed
             </td>
-            {/* <td className="p-2 border-r-2 border-r-gray-300">Enroll Date & Time</td> */}
-            {/* <td className="p-2 border-r-2 border-r-gray-300">Enroll. Status</td> */}
-            {/* <td className='p-2 border-r-2 border-r-gray-300'>Profile URL</td> */}
           </tr>
         </thead>
         <TableBody

@@ -5,7 +5,7 @@ const selectedStudents:Set<string> = new Set(['captain.starlord2025@gmail.com', 
 function TableBody({ Participationdata } : {Participationdata: Member[]}) {
   // console.log(selectedStudents.length)
   return (
-    <tbody className="text-xs ">
+    <tbody className="text-xs">
       {Participationdata.length > 0 ? (
         Participationdata.map((participant) => {
           return (
