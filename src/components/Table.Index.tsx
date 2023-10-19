@@ -135,7 +135,6 @@ function TableIndex() {
         </thead>
         <TableBody
           Participationdata={Participationdata}
-          setParticipationdata={setParticipationdata}
         />
       </table>
     </div>

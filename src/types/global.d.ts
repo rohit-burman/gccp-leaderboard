@@ -1,4 +1,3 @@
-export {};
 
 declare global {
   interface Member {
@@ -15,3 +14,5 @@ declare global {
     "Redemption Status": string;
   }
 }
+
+export {};

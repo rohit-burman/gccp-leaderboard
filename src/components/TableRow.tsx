@@ -1,6 +1,5 @@
 
-
-function TableRow({ participant, pruned }) {
+function TableRow({ participant, pruned } : {participant: Member, pruned: boolean}) {
   // console.log(participant)
   // console.log(pruned);
 
