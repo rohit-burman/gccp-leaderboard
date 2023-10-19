@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import TableBody from "./TableBody";
 import dataArr from "../data.json"
 // import Speedometer from "./Speedometer";
@@ -12,13 +12,13 @@ function TableIndex() {
 
   const calculateTotalEligibility = () => {
     let total = 0;
-    data.forEach((ele) => {
+    data.forEach((ele:any) => {
       ele["Total Completions of both Pathways"] == "Yes" && total++;
     });
     setEligibleforSwags(total);
   };
 
-  const searchname = (name) => {
+  const searchname = (name:any) => {
     const newArr = [];
     for (let i = 0; i < data.length; i++) {
       let participant = data[i]["Student Name"].toLowerCase();

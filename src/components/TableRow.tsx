@@ -1,4 +1,4 @@
-import React from "react";
+
 
 function TableRow({ participant, pruned }) {
   // console.log(participant)
@@ -28,8 +28,11 @@ function TableRow({ participant, pruned }) {
               : "bg-green-200 text-green-600"
           }`}
         >
-          {pruned == true ? "Removed" :  participant["Total Completions of both Pathways"] == "Yes"
-              ? "Completed":"Selected"}
+          {pruned == true
+            ? "Removed"
+            : participant["Total Completions of both Pathways"] == "Yes"
+            ? "Completed"
+            : "Selected"}
         </div>
       </td>
 
