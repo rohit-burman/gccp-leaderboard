@@ -14,7 +14,7 @@ function TableIndex() {
 	const calculateTotalEligibility = () => {
 		let total = 0;
 		data.forEach((ele: any) => {
-			ele["Total Completions of both Pathways"] == "Yes" && total++;
+			ele["All 3 Pathways Completed - Yes or No"] == "Yes" && total++;
 		});
 		setEligibleforSwags(total);
 	};
@@ -22,7 +22,7 @@ function TableIndex() {
 	const searchname = (name: any) => {
 		const newArr = [];
 		for (let i = 0; i < data.length; i++) {
-			let participant = data[i]["Student Name"].toLowerCase();
+			let participant = data[i]["User Name"].toLowerCase();
 			let match = participant.includes(name.toLowerCase());
 			if (match) newArr.push(data[i]);
 		}
