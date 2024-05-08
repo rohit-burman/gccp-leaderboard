@@ -1479,9 +1479,9 @@
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a5681dca-2257-4192-8610-902936c82d75",
     "Profile URL Status": "All Good",
     "Prompt Design in Vertex AI Completion": 1,
-    "Develop GenAI Apps with Gemini and Streamlit Completion": 0,
-    "Gen AI Arcade Game Completion": 0,
-    "All 3 Pathways Completed - Yes or No": "No",
+    "Develop GenAI Apps with Gemini and Streamlit Completion": 1,
+    "Gen AI Arcade Game Completion": 1,
+    "All 3 Pathways Completed - Yes or No": "Yes",
     "Campaign Code Redemption Status": "Yes"
   },
   {
