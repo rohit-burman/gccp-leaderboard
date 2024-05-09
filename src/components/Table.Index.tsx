@@ -8,7 +8,7 @@ function TableIndex() {
 	const imported_data = JSON.stringify(dataArr);
 	const data = JSON.parse(imported_data);
 	const [Participationdata, setParticipationdata] = useState([...data]);
-	const [EligibleforSwags, setEligibleforSwags] = useState(0);
+	const [EligibleforSwags, setEligibleforSwags] = useState(130);
 	const [Quote, setQuote] = useState("");
 
 	const calculateTotalEligibility = () => {
@@ -37,7 +37,7 @@ function TableIndex() {
 				? total++
 				: total;
 		});
-		setEligibleforSwags(total);
+		setEligibleforSwags(130);
 	};
 
 	const searchname = (name: any) => {
