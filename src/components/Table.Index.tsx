@@ -37,7 +37,7 @@ function TableIndex() {
 				? total++
 				: total;
 		});
-		setEligibleforSwags(130);
+		setEligibleforSwags(80);
 	};
 
 	const searchname = (name: any) => {
