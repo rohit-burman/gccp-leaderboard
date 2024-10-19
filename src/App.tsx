@@ -12,7 +12,7 @@ const App = () => {
 							height="40"
 						/>
 					</div>
-					<p className="">GENAI STUDY JAMS 23 - 24</p>
+					<p className="">GENAI STUDY JAMS 24 - 25</p>
 				</div>
 
 				<div className="p-3 flex mob:flex-col m-auto max-w-6xl justify-between items-center">

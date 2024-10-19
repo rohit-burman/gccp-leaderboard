@@ -15,13 +15,13 @@ function TableRow({
         ${
 					pruned == true
 						? "bg-gray-200 text-gray-600"
-						: participant["All 3 Pathways Completed - Yes or No"] === "Yes"
+						: participant["All Skill Badges & Games Completed"] === "Yes"
 						? "bg-orange-200 font-bold text-orange-500"
 						: ""
 				}`}
 			>
 				{participant["User Name"]}
-				{participant["All 3 Pathways Completed - Yes or No"] === "Yes" &&
+				{participant["All Skill Badges & Games Completed"] === "Yes" &&
 				pruned == false
 					? "🏅"
 					: ""}
@@ -32,14 +32,14 @@ function TableRow({
 					className={`w-fit m-auto rounded-3xl px-4 py-1 text-center ${
 						pruned == true
 							? "bg-gray-200 text-gray-600"
-							: participant["All 3 Pathways Completed - Yes or No"] === "Yes"
+							: participant["All Skill Badges & Games Completed"] === "Yes"
 							? "bg-orange-200 font-bold text-orange-500"
 							: "bg-green-200 text-green-600"
 					}`}
 				>
 					{pruned == true
 						? "Removed"
-						: participant["All 3 Pathways Completed - Yes or No"] == "Yes"
+						: participant["All Skill Badges & Games Completed"] == "Yes"
 						? "Completed"
 						: "Selected"}
 				</div>
@@ -91,7 +91,7 @@ function TableRow({
 				</div>
 			</td> */}
 
-			<td
+			{/* <td
 				className={`no_Courses_Completed mob:hidden p-3 text-center ${
 					pruned == true && "text-gray-600"
 				}`}
@@ -99,7 +99,7 @@ function TableRow({
 				{pruned == true
 					? "------"
 					: participant["Prompt Design in Vertex AI Completion"]}
-			</td>
+			</td> */}
 
 			<td
 				className={`no_Skill_Badges_Completed mob:hidden p-3 text-center ${
@@ -109,7 +109,7 @@ function TableRow({
 				{pruned == true
 					? "------"
 					: participant[
-							"Develop GenAI Apps with Gemini and Streamlit Completion"
+							"# of Skill Badges Completed"
 					  ]}
 			</td>
 
@@ -120,7 +120,7 @@ function TableRow({
 			>
 				{pruned == true
 					? "------"
-					: participant["Gen AI Arcade Game Completion"]}
+					: participant["# of Arcade Games Completed"]}
 			</td>
 		</tr>
 	);
