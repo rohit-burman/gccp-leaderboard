@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import TableBody from "./TableBody";
-import dataArr from "../data.json";
+import dataArr from "../cloudData.json";
 // import Speedometer from "./Speedometer";
 
 function TableIndex() {
@@ -8,36 +8,40 @@ function TableIndex() {
 	const imported_data = JSON.stringify(dataArr);
 	const data = JSON.parse(imported_data);
 	const [Participationdata, setParticipationdata] = useState([...data]);
-	const [EligibleforSwags, setEligibleforSwags] = useState(130);
+	const [EligibleforSwags, setEligibleforSwags] = useState(80);
 	const [Quote, setQuote] = useState("");
 
 	const calculateTotalEligibility = () => {
 		let total = 0;
 
-		const selectedStudents: Set<string> = new Set([
-			"sumitsinghranacloud001@gmail.com",
-			"sumitsinghranacloud001@gmail.com",
-			"adeogdsc2828@gmail.com",
-			"dsubham89214@gmail.com",
-			"aarpitaharsh18@gmail.com",
-			"aec.cse.soumyadeep@gmail.com",
-			"amankraec@gmail.com",
-			"rishikesh.sharma090@gmail.com",
-			"soumimondal382@gmail.com",
-			"meghakiran34@gmail.com",
-			"rajnandinisingh002@gmail.com",
-			"dpktechnicals@gmail.com",
-			"singhaarna926@gmail.com",
-			"ad7801609@gmail.com",
-		]);
+		// const selectedStudents: Set<string> = new Set([
+		// 	"sumitsinghranacloud001@gmail.com",
+		// 	"sumitsinghranacloud001@gmail.com",
+		// 	"adeogdsc2828@gmail.com",
+		// 	"dsubham89214@gmail.com",
+		// 	"aarpitaharsh18@gmail.com",
+		// 	"aec.cse.soumyadeep@gmail.com",
+		// 	"amankraec@gmail.com",
+		// 	"rishikesh.sharma090@gmail.com",
+		// 	"soumimondal382@gmail.com",
+		// 	"meghakiran34@gmail.com",
+		// 	"rajnandinisingh002@gmail.com",
+		// 	"dpktechnicals@gmail.com",
+		// 	"singhaarna926@gmail.com",
+		// 	"ad7801609@gmail.com",
+		// ]);
 
 		data.forEach((ele: any) => {
-			ele["All 3 Pathways Completed - Yes or No"] == "Yes" &&
-			!selectedStudents.has(ele["User Email"])
-				? total++
+			ele["All Skill Badges & Games Completed"] == "Yes"
+			//  &&
+			// !selectedStudents.has(ele["User Email"])
+				?
+				 total++
 				: total;
 		});
 		setEligibleforSwags(80);
+		console.log(total);
+		
 	};
 
 	const searchname = (name: any) => {
@@ -87,7 +91,7 @@ function TableIndex() {
 							Participants removed
 						</p>
 						<p className="no text-2xl border-l-2 border-l-red-700 pl-3 text-red-800">
-							{13}
+							{0}
 						</p>
 					</div>
 					<div className="eligibleforswag w-fit mob:w-full h-20 p-5 space-x-5 rounded-lg flex flex-row justify-evenly mob:justify-between items-center bg-blue-50 shadow-lg shadow-blue-300/30 border border-blue-200">
@@ -140,11 +144,11 @@ function TableIndex() {
 						<td className="mob:hidden p-2 px-10 border-r-2 border-r-gray-300">
 							Profile Status
 						</td>
-						<td className="mob:rounded-se-lg p-2 border-r-2 border-r-gray-300 max-w-[150px]">
+						{/* <td className="mob:rounded-se-lg p-2 border-r-2 border-r-gray-300 max-w-[150px]">
 							Prompt Design
-						</td>
+						</td> */}
 						<td className="mob:hidden p-2 border-r-2 border-r-gray-300 max-w-[150px]">
-							GenAI Apps
+						Skill Badges
 						</td>
 						<td className="mob:hidden rounded-se-lg p-2 max-w-[150px]">
 							Arcade Game
