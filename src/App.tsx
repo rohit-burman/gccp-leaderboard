@@ -27,7 +27,7 @@ const App = () => {
 								/>
 							</div>
 							<div className="text flex flex-col justify-start items-start">
-								<p className="text-base">Google Developer Student Club</p>
+								<p className="text-base">Google Developers Group on Campus</p>
 								<p className="text-xs">Asansol Engineering College</p>
 							</div>
 						</div>
