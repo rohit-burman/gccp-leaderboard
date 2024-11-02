@@ -35,9 +35,8 @@ function TableIndex() {
 			ele["All Skill Badges & Games Completed"] == "Yes"
 			//  &&
 			// !selectedStudents.has(ele["User Email"])
-				?
-				 total++
-				: total;
+				?total++ : total
+				;
 		});
 		setEligibleforSwags(80);
 		console.log(total);
