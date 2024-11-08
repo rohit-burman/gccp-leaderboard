@@ -42,7 +42,7 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 0,
+    "# of Skill Badges Completed": 5,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
     "Names of Completed Arcade Games": ""
@@ -102,8 +102,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 11,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Develop GenAI Apps with Gemini and Streamlit [Skill Badge]",
+    "# of Skill Badges Completed": 13,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Develop GenAI Apps with Gemini and Streamlit [Skill Badge]",
     "# of Arcade Games Completed": 1,
     "Names of Completed Arcade Games": "Diwali in The Arcade [Game]"
   },
@@ -126,8 +126,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 10,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge]",
+    "# of Skill Badges Completed": 11,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge]",
     "# of Arcade Games Completed": 0,
     "Names of Completed Arcade Games": ""
   },
@@ -234,8 +234,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 11,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Prompt Design in Vertex AI [Skill Badge]",
+    "# of Skill Badges Completed": 12,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Prompt Design in Vertex AI [Skill Badge]",
     "# of Arcade Games Completed": 0,
     "Names of Completed Arcade Games": ""
   },
@@ -342,8 +342,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 7,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge]",
+    "# of Skill Badges Completed": 8,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge]",
     "# of Arcade Games Completed": 0,
     "Names of Completed Arcade Games": ""
   },
@@ -558,8 +558,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 14,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prompt Design in Vertex AI [Skill Badge]",
+    "# of Skill Badges Completed": 15,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop GenAI Apps with Gemini and Streamlit [Skill Badge]",
     "# of Arcade Games Completed": 0,
     "Names of Completed Arcade Games": ""
   },
@@ -654,8 +654,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 8,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge]",
+    "# of Skill Badges Completed": 10,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge]",
     "# of Arcade Games Completed": 0,
     "Names of Completed Arcade Games": ""
   },
@@ -774,8 +774,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 10,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge]",
+    "# of Skill Badges Completed": 12,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge]",
     "# of Arcade Games Completed": 0,
     "Names of Completed Arcade Games": ""
   },
@@ -810,8 +810,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 9,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge]",
+    "# of Skill Badges Completed": 11,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge]",
     "# of Arcade Games Completed": 0,
     "Names of Completed Arcade Games": ""
   },
@@ -834,8 +834,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 5,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge]",
+    "# of Skill Badges Completed": 7,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge]",
     "# of Arcade Games Completed": 1,
     "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
   },
@@ -1037,11 +1037,11 @@
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/4ba18001-3fa7-4181-8659-2b0797fbf6e7",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
-    "All Skill Badges & Games Completed": "No",
+    "All Skill Badges & Games Completed": "Yes",
     "# of Skill Badges Completed": 15,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop GenAI Apps with Gemini and Streamlit [Skill Badge]",
-    "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "# of Arcade Games Completed": 1,
+    "Names of Completed Arcade Games": "Diwali in The Arcade [Game]"
   },
   {
     "User Name": "Sayani Brahmachary",
@@ -1109,11 +1109,11 @@
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/7509972c-0641-4f82-af90-5ba8cddbdd92",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
-    "All Skill Badges & Games Completed": "No",
+    "All Skill Badges & Games Completed": "Yes",
     "# of Skill Badges Completed": 15,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop GenAI Apps with Gemini and Streamlit [Skill Badge]",
-    "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "# of Arcade Games Completed": 1,
+    "Names of Completed Arcade Games": "Diwali in The Arcade [Game]"
   },
   {
     "User Name": "Debayan Karar",
@@ -1410,8 +1410,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 0,
-    "Names of Completed Skill Badges": "",
+    "# of Skill Badges Completed": 2,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge]",
     "# of Arcade Games Completed": 0,
     "Names of Completed Arcade Games": ""
   },
@@ -1553,9 +1553,9 @@
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/cb964102-913a-49ba-a5ad-a40d46329dfc",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
-    "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 14,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop GenAI Apps with Gemini and Streamlit [Skill Badge]",
+    "All Skill Badges & Games Completed": "Yes",
+    "# of Skill Badges Completed": 15,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop GenAI Apps with Gemini and Streamlit [Skill Badge]",
     "# of Arcade Games Completed": 1,
     "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
   },
@@ -1673,11 +1673,11 @@
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/9d0d8b17-79e8-4d54-a143-9b9ce7274f3f",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
-    "All Skill Badges & Games Completed": "No",
+    "All Skill Badges & Games Completed": "Yes",
     "# of Skill Badges Completed": 15,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop GenAI Apps with Gemini and Streamlit [Skill Badge]",
-    "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "# of Arcade Games Completed": 1,
+    "Names of Completed Arcade Games": "Diwali in The Arcade [Game]"
   },
   {
     "User Name": "Rupam Garai",
@@ -2214,8 +2214,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 2,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge]",
+    "# of Skill Badges Completed": 4,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge]",
     "# of Arcade Games Completed": 0,
     "Names of Completed Arcade Games": ""
   },
@@ -2478,8 +2478,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 12,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge]",
+    "# of Skill Badges Completed": 13,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge]",
     "# of Arcade Games Completed": 0,
     "Names of Completed Arcade Games": ""
   },
@@ -2645,11 +2645,11 @@
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/dec84933-3338-48d4-9037-6126a788b798",
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
-    "All Skill Badges & Games Completed": "No",
+    "All Skill Badges & Games Completed": "Yes",
     "# of Skill Badges Completed": 15,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop GenAI Apps with Gemini and Streamlit [Skill Badge]",
-    "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "# of Arcade Games Completed": 1,
+    "Names of Completed Arcade Games": "Diwali in The Arcade [Game]"
   },
   {
     "User Name": "RAHUL SK",
@@ -2766,8 +2766,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 12,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Prompt Design in Vertex AI [Skill Badge]",
+    "# of Skill Badges Completed": 13,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Prompt Design in Vertex AI [Skill Badge]",
     "# of Arcade Games Completed": 1,
     "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
   },
@@ -2994,8 +2994,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 8,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge]",
+    "# of Skill Badges Completed": 9,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge]",
     "# of Arcade Games Completed": 0,
     "Names of Completed Arcade Games": ""
   },
@@ -3018,8 +3018,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 9,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge]",
+    "# of Skill Badges Completed": 10,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge]",
     "# of Arcade Games Completed": 0,
     "Names of Completed Arcade Games": ""
   },
@@ -3186,8 +3186,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 5,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge]",
+    "# of Skill Badges Completed": 7,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge]",
     "# of Arcade Games Completed": 1,
     "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
   },
@@ -3390,8 +3390,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 5,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge]",
+    "# of Skill Badges Completed": 6,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge]",
     "# of Arcade Games Completed": 0,
     "Names of Completed Arcade Games": ""
   }
