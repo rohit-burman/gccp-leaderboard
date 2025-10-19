@@ -6,13 +6,14 @@ const App = () => {
 				<div className="bg-gray-900 text-blue-500 w-full m-auto text-center p-2 flex justify-center items-center">
 					<div className="">
 						<img
-							src="https://gccp-leaderboard-gray.vercel.app/_next/image?url=%2Fassets%2FcloudLg.png&w=48&q=75"
+							// src="https://gccp-leaderboard-gray.vercel.app/_next/image?url=%2Fassets%2FcloudLg.png&w=48&q=75"
+							src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000"
 							alt="me"
 							width="40"
 							height="40"
 						/>
 					</div>
-					<p className="">GENAI STUDY JAMS 24 - 25</p>
+					<p className="">GENAI STUDY JAMS 25 - 26</p>
 				</div>
 
 				<div className="p-3 flex mob:flex-col m-auto max-w-6xl justify-between items-center">
@@ -20,7 +21,7 @@ const App = () => {
 						<div className="logo mob:border-b mob:border-b-gray-200 flex justify-center items-center">
 							<div className="img w-16 h-16 rounded-full mr-1">
 								<img
-									src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/small-logo.png"
+									src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000"
 									alt="me"
 									width="64"
 									height="64"

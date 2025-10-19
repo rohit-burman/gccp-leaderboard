@@ -59,10 +59,12 @@ function TableIndex() {
 		calculateTotalEligibility();
 		async function getQuote() {
 			const res = await fetch(
-				"https://api.quotable.io/random?tags=Future&Inspirational&Motivational&Success"
+				// "https://api.quotable.io/random?tags=Future&Inspirational&Motivational&Success"
+				// "https://api.forismatic.com/api/1.0/?method=getQuote&key=457653&format=json&lang=en"
+				"https://quotes-api-self.vercel.app/quote"
 			);
 			const data = await res.json();
-			setQuote(data.content);
+			setQuote(data.quote);
 		}
 		getQuote();
 	}, []);
