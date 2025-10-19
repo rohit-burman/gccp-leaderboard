@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import TableBody from "./TableBody";
-import dataArr from "../cloudData.json";
+// import dataArr from "../cloudData.json";
+import dataArr from "../data/data.json";
 // import Speedometer from "./Speedometer";
 
 function TableIndex() {
